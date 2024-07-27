@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to use Hex Maniac Advanced. 
 - 💞️ I’m looking to collaborate on any ROM HACKs. 
 - 📫 Reach me on my email joshuagarrethunt@gmail.com 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 6'1 but on my money I'm 6'1
 
 <!---
